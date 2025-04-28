@@ -11,3 +11,4 @@ Used the CSV file to build the report on Tableau.
 Special thanks to Lore So What youtube channel.
 
 ## Dashboard View
+[Covid-19 Vaccine Analysis.pdf](https://github.com/UmmeHani-07/Vaccine-COVID-19-Analysis/blob/main/Vaccine%20COVID-19%20Global%20Tracker.pdf)
